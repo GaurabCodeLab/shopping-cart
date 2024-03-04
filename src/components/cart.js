@@ -67,7 +67,7 @@ function Cart() {
           <MDBCollapse navbar open={openNav}>
             <MDBNavbarNav className="d-flex justify-content-around">
               <MDBNavbarItem>
-                <Link to="/">
+                <Link to="/shopping-cart">
                   <MDBNavbarLink active aria-current="page" href="#">
                     All Products
                   </MDBNavbarLink>
